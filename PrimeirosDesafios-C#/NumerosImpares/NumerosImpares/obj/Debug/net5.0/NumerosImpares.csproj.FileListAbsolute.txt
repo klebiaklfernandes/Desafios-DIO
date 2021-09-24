@@ -1,0 +1,16 @@
+C:\Users\Kelly\source\repos\NumerosImpares\NumerosImpares\obj\Debug\net5.0\NumerosImpares.csproj.AssemblyReference.cache
+C:\Users\Kelly\source\repos\NumerosImpares\NumerosImpares\obj\Debug\net5.0\NumerosImpares.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kelly\source\repos\NumerosImpares\NumerosImpares\obj\Debug\net5.0\NumerosImpares.AssemblyInfoInputs.cache
+C:\Users\Kelly\source\repos\NumerosImpares\NumerosImpares\obj\Debug\net5.0\NumerosImpares.AssemblyInfo.cs
+C:\Users\Kelly\source\repos\NumerosImpares\NumerosImpares\obj\Debug\net5.0\NumerosImpares.csproj.CoreCompileInputs.cache
+C:\Users\Kelly\source\repos\NumerosImpares\NumerosImpares\bin\Debug\net5.0\NumerosImpares.exe
+C:\Users\Kelly\source\repos\NumerosImpares\NumerosImpares\bin\Debug\net5.0\NumerosImpares.deps.json
+C:\Users\Kelly\source\repos\NumerosImpares\NumerosImpares\bin\Debug\net5.0\NumerosImpares.runtimeconfig.json
+C:\Users\Kelly\source\repos\NumerosImpares\NumerosImpares\bin\Debug\net5.0\NumerosImpares.runtimeconfig.dev.json
+C:\Users\Kelly\source\repos\NumerosImpares\NumerosImpares\bin\Debug\net5.0\NumerosImpares.dll
+C:\Users\Kelly\source\repos\NumerosImpares\NumerosImpares\bin\Debug\net5.0\ref\NumerosImpares.dll
+C:\Users\Kelly\source\repos\NumerosImpares\NumerosImpares\bin\Debug\net5.0\NumerosImpares.pdb
+C:\Users\Kelly\source\repos\NumerosImpares\NumerosImpares\obj\Debug\net5.0\NumerosImpares.dll
+C:\Users\Kelly\source\repos\NumerosImpares\NumerosImpares\obj\Debug\net5.0\ref\NumerosImpares.dll
+C:\Users\Kelly\source\repos\NumerosImpares\NumerosImpares\obj\Debug\net5.0\NumerosImpares.pdb
+C:\Users\Kelly\source\repos\NumerosImpares\NumerosImpares\obj\Debug\net5.0\NumerosImpares.genruntimeconfig.cache

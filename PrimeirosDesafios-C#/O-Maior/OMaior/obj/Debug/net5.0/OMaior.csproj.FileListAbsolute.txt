@@ -1,0 +1,16 @@
+C:\Users\Kelly\source\repos\OMaior\OMaior\bin\Debug\net5.0\OMaior.exe
+C:\Users\Kelly\source\repos\OMaior\OMaior\bin\Debug\net5.0\OMaior.deps.json
+C:\Users\Kelly\source\repos\OMaior\OMaior\bin\Debug\net5.0\OMaior.runtimeconfig.json
+C:\Users\Kelly\source\repos\OMaior\OMaior\bin\Debug\net5.0\OMaior.runtimeconfig.dev.json
+C:\Users\Kelly\source\repos\OMaior\OMaior\bin\Debug\net5.0\OMaior.dll
+C:\Users\Kelly\source\repos\OMaior\OMaior\bin\Debug\net5.0\ref\OMaior.dll
+C:\Users\Kelly\source\repos\OMaior\OMaior\bin\Debug\net5.0\OMaior.pdb
+C:\Users\Kelly\source\repos\OMaior\OMaior\obj\Debug\net5.0\OMaior.csproj.AssemblyReference.cache
+C:\Users\Kelly\source\repos\OMaior\OMaior\obj\Debug\net5.0\OMaior.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kelly\source\repos\OMaior\OMaior\obj\Debug\net5.0\OMaior.AssemblyInfoInputs.cache
+C:\Users\Kelly\source\repos\OMaior\OMaior\obj\Debug\net5.0\OMaior.AssemblyInfo.cs
+C:\Users\Kelly\source\repos\OMaior\OMaior\obj\Debug\net5.0\OMaior.csproj.CoreCompileInputs.cache
+C:\Users\Kelly\source\repos\OMaior\OMaior\obj\Debug\net5.0\OMaior.dll
+C:\Users\Kelly\source\repos\OMaior\OMaior\obj\Debug\net5.0\ref\OMaior.dll
+C:\Users\Kelly\source\repos\OMaior\OMaior\obj\Debug\net5.0\OMaior.pdb
+C:\Users\Kelly\source\repos\OMaior\OMaior\obj\Debug\net5.0\OMaior.genruntimeconfig.cache

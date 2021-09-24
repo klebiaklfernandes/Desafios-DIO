@@ -1,0 +1,16 @@
+C:\Users\Kelly\source\repos\TempoDoDobby\TempoDoDobby\bin\Debug\net5.0\TempoDoDobby.exe
+C:\Users\Kelly\source\repos\TempoDoDobby\TempoDoDobby\bin\Debug\net5.0\TempoDoDobby.deps.json
+C:\Users\Kelly\source\repos\TempoDoDobby\TempoDoDobby\bin\Debug\net5.0\TempoDoDobby.runtimeconfig.json
+C:\Users\Kelly\source\repos\TempoDoDobby\TempoDoDobby\bin\Debug\net5.0\TempoDoDobby.runtimeconfig.dev.json
+C:\Users\Kelly\source\repos\TempoDoDobby\TempoDoDobby\bin\Debug\net5.0\TempoDoDobby.dll
+C:\Users\Kelly\source\repos\TempoDoDobby\TempoDoDobby\bin\Debug\net5.0\ref\TempoDoDobby.dll
+C:\Users\Kelly\source\repos\TempoDoDobby\TempoDoDobby\bin\Debug\net5.0\TempoDoDobby.pdb
+C:\Users\Kelly\source\repos\TempoDoDobby\TempoDoDobby\obj\Debug\net5.0\TempoDoDobby.csproj.AssemblyReference.cache
+C:\Users\Kelly\source\repos\TempoDoDobby\TempoDoDobby\obj\Debug\net5.0\TempoDoDobby.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kelly\source\repos\TempoDoDobby\TempoDoDobby\obj\Debug\net5.0\TempoDoDobby.AssemblyInfoInputs.cache
+C:\Users\Kelly\source\repos\TempoDoDobby\TempoDoDobby\obj\Debug\net5.0\TempoDoDobby.AssemblyInfo.cs
+C:\Users\Kelly\source\repos\TempoDoDobby\TempoDoDobby\obj\Debug\net5.0\TempoDoDobby.csproj.CoreCompileInputs.cache
+C:\Users\Kelly\source\repos\TempoDoDobby\TempoDoDobby\obj\Debug\net5.0\TempoDoDobby.dll
+C:\Users\Kelly\source\repos\TempoDoDobby\TempoDoDobby\obj\Debug\net5.0\ref\TempoDoDobby.dll
+C:\Users\Kelly\source\repos\TempoDoDobby\TempoDoDobby\obj\Debug\net5.0\TempoDoDobby.pdb
+C:\Users\Kelly\source\repos\TempoDoDobby\TempoDoDobby\obj\Debug\net5.0\TempoDoDobby.genruntimeconfig.cache

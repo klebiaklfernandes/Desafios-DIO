@@ -1,0 +1,16 @@
+C:\Users\Kelly\source\repos\Multiplos\Multiplos\bin\Debug\net5.0\Multiplos.exe
+C:\Users\Kelly\source\repos\Multiplos\Multiplos\bin\Debug\net5.0\Multiplos.deps.json
+C:\Users\Kelly\source\repos\Multiplos\Multiplos\bin\Debug\net5.0\Multiplos.runtimeconfig.json
+C:\Users\Kelly\source\repos\Multiplos\Multiplos\bin\Debug\net5.0\Multiplos.runtimeconfig.dev.json
+C:\Users\Kelly\source\repos\Multiplos\Multiplos\bin\Debug\net5.0\Multiplos.dll
+C:\Users\Kelly\source\repos\Multiplos\Multiplos\bin\Debug\net5.0\ref\Multiplos.dll
+C:\Users\Kelly\source\repos\Multiplos\Multiplos\bin\Debug\net5.0\Multiplos.pdb
+C:\Users\Kelly\source\repos\Multiplos\Multiplos\obj\Debug\net5.0\Multiplos.csproj.AssemblyReference.cache
+C:\Users\Kelly\source\repos\Multiplos\Multiplos\obj\Debug\net5.0\Multiplos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kelly\source\repos\Multiplos\Multiplos\obj\Debug\net5.0\Multiplos.AssemblyInfoInputs.cache
+C:\Users\Kelly\source\repos\Multiplos\Multiplos\obj\Debug\net5.0\Multiplos.AssemblyInfo.cs
+C:\Users\Kelly\source\repos\Multiplos\Multiplos\obj\Debug\net5.0\Multiplos.csproj.CoreCompileInputs.cache
+C:\Users\Kelly\source\repos\Multiplos\Multiplos\obj\Debug\net5.0\Multiplos.dll
+C:\Users\Kelly\source\repos\Multiplos\Multiplos\obj\Debug\net5.0\ref\Multiplos.dll
+C:\Users\Kelly\source\repos\Multiplos\Multiplos\obj\Debug\net5.0\Multiplos.pdb
+C:\Users\Kelly\source\repos\Multiplos\Multiplos\obj\Debug\net5.0\Multiplos.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\Kelly\source\repos\TiposDeTriangulos\TiposDeTriangulos\bin\Debug\net5.0\TiposDeTriangulos.exe
+C:\Users\Kelly\source\repos\TiposDeTriangulos\TiposDeTriangulos\bin\Debug\net5.0\TiposDeTriangulos.deps.json
+C:\Users\Kelly\source\repos\TiposDeTriangulos\TiposDeTriangulos\bin\Debug\net5.0\TiposDeTriangulos.runtimeconfig.json
+C:\Users\Kelly\source\repos\TiposDeTriangulos\TiposDeTriangulos\bin\Debug\net5.0\TiposDeTriangulos.runtimeconfig.dev.json
+C:\Users\Kelly\source\repos\TiposDeTriangulos\TiposDeTriangulos\bin\Debug\net5.0\TiposDeTriangulos.dll
+C:\Users\Kelly\source\repos\TiposDeTriangulos\TiposDeTriangulos\bin\Debug\net5.0\ref\TiposDeTriangulos.dll
+C:\Users\Kelly\source\repos\TiposDeTriangulos\TiposDeTriangulos\bin\Debug\net5.0\TiposDeTriangulos.pdb
+C:\Users\Kelly\source\repos\TiposDeTriangulos\TiposDeTriangulos\obj\Debug\net5.0\TiposDeTriangulos.csproj.AssemblyReference.cache
+C:\Users\Kelly\source\repos\TiposDeTriangulos\TiposDeTriangulos\obj\Debug\net5.0\TiposDeTriangulos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kelly\source\repos\TiposDeTriangulos\TiposDeTriangulos\obj\Debug\net5.0\TiposDeTriangulos.AssemblyInfoInputs.cache
+C:\Users\Kelly\source\repos\TiposDeTriangulos\TiposDeTriangulos\obj\Debug\net5.0\TiposDeTriangulos.AssemblyInfo.cs
+C:\Users\Kelly\source\repos\TiposDeTriangulos\TiposDeTriangulos\obj\Debug\net5.0\TiposDeTriangulos.csproj.CoreCompileInputs.cache
+C:\Users\Kelly\source\repos\TiposDeTriangulos\TiposDeTriangulos\obj\Debug\net5.0\TiposDeTriangulos.dll
+C:\Users\Kelly\source\repos\TiposDeTriangulos\TiposDeTriangulos\obj\Debug\net5.0\ref\TiposDeTriangulos.dll
+C:\Users\Kelly\source\repos\TiposDeTriangulos\TiposDeTriangulos\obj\Debug\net5.0\TiposDeTriangulos.pdb
+C:\Users\Kelly\source\repos\TiposDeTriangulos\TiposDeTriangulos\obj\Debug\net5.0\TiposDeTriangulos.genruntimeconfig.cache

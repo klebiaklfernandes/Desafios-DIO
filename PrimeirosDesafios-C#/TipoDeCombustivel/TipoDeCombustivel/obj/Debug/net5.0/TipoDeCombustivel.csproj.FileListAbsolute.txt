@@ -1,0 +1,16 @@
+C:\Users\Kelly\source\repos\TipoDeCombustivel\TipoDeCombustivel\bin\Debug\net5.0\TipoDeCombustivel.exe
+C:\Users\Kelly\source\repos\TipoDeCombustivel\TipoDeCombustivel\bin\Debug\net5.0\TipoDeCombustivel.deps.json
+C:\Users\Kelly\source\repos\TipoDeCombustivel\TipoDeCombustivel\bin\Debug\net5.0\TipoDeCombustivel.runtimeconfig.json
+C:\Users\Kelly\source\repos\TipoDeCombustivel\TipoDeCombustivel\bin\Debug\net5.0\TipoDeCombustivel.runtimeconfig.dev.json
+C:\Users\Kelly\source\repos\TipoDeCombustivel\TipoDeCombustivel\bin\Debug\net5.0\TipoDeCombustivel.dll
+C:\Users\Kelly\source\repos\TipoDeCombustivel\TipoDeCombustivel\bin\Debug\net5.0\ref\TipoDeCombustivel.dll
+C:\Users\Kelly\source\repos\TipoDeCombustivel\TipoDeCombustivel\bin\Debug\net5.0\TipoDeCombustivel.pdb
+C:\Users\Kelly\source\repos\TipoDeCombustivel\TipoDeCombustivel\obj\Debug\net5.0\TipoDeCombustivel.csproj.AssemblyReference.cache
+C:\Users\Kelly\source\repos\TipoDeCombustivel\TipoDeCombustivel\obj\Debug\net5.0\TipoDeCombustivel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kelly\source\repos\TipoDeCombustivel\TipoDeCombustivel\obj\Debug\net5.0\TipoDeCombustivel.AssemblyInfoInputs.cache
+C:\Users\Kelly\source\repos\TipoDeCombustivel\TipoDeCombustivel\obj\Debug\net5.0\TipoDeCombustivel.AssemblyInfo.cs
+C:\Users\Kelly\source\repos\TipoDeCombustivel\TipoDeCombustivel\obj\Debug\net5.0\TipoDeCombustivel.csproj.CoreCompileInputs.cache
+C:\Users\Kelly\source\repos\TipoDeCombustivel\TipoDeCombustivel\obj\Debug\net5.0\TipoDeCombustivel.dll
+C:\Users\Kelly\source\repos\TipoDeCombustivel\TipoDeCombustivel\obj\Debug\net5.0\ref\TipoDeCombustivel.dll
+C:\Users\Kelly\source\repos\TipoDeCombustivel\TipoDeCombustivel\obj\Debug\net5.0\TipoDeCombustivel.pdb
+C:\Users\Kelly\source\repos\TipoDeCombustivel\TipoDeCombustivel\obj\Debug\net5.0\TipoDeCombustivel.genruntimeconfig.cache
